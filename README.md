@@ -11,10 +11,10 @@
 
 To test this app
 <ul>
-<li>IClone the repository</li>
-<li>run npm install</li>
-<li>Confidure firebase instant </li>
+<li>Clone the repository</li>
+<li>run 'npm install'</li>
+<li>Configure firebase instant </li>
 <li>Add your firebase app secret to the app</li>
-<li>ionic serve </li>
+<li>run 'ionic serve' </li>
 <li>enjoy </li>
 </ul>
